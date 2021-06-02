@@ -1,2 +1,3 @@
 this is the color darts mod! <br>
-<img width="653" alt="nices" src="https://user-images.githubusercontent.com/78683838/120538935-99760b80-c3d6-11eb-8191-2fe0ba8b43ff.png">
+![thumb](https://user-images.githubusercontent.com/78683838/120541216-1f935180-c3d9-11eb-92da-6ae6e01c640d.png)
+
