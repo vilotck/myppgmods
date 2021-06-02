@@ -1,0 +1,16 @@
+{
+  "Name": "where your mum lives",
+  "Author": "jack",
+  "Description": "2",
+  "ModVersion": "1.0",
+  "GameVersion": "1.15",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "script.cs"
+  ],
+  "Active": false,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2501141283"
+}
